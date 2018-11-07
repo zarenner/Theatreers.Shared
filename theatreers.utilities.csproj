@@ -1,6 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+  <PackageId>theatreers.utilities</PackageId>
+  <Authors>Chris Reddington</Authors>
+  <Company>Theatreers</Company>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
