@@ -2,6 +2,7 @@
 
   <PropertyGroup>
   <PackageId>theatreers.utilities</PackageId>
+  <Version>0.0.1</Version>
   <Authors>Chris Reddington</Authors>
   <Company>Theatreers</Company>
     <TargetFramework>netstandard2.0</TargetFramework>
