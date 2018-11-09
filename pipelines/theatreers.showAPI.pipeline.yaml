@@ -4,7 +4,6 @@ steps:
   inputs:
     command: pack
     packagesToPack: theatreers.utilities/theatreers.utilities.csproj
-steps:
 - task: DotNetCoreCLI@2
   displayName: 'dotnet push'
   inputs:
