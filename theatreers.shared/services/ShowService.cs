@@ -2,7 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using theatreers.shared;
+using theatreers.shared.Models;
+using theatreers.shared.Interfaces;
 
 namespace theatreers.shared.Services
 {
