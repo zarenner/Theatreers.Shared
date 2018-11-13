@@ -1,7 +1,7 @@
 using System;
 using MySql.Data.MySqlClient;
 
-namespace theatreers.Utilities
+namespace theatreers.shared
 {
     public class AppDb : IDisposable
     {

@@ -3,7 +3,7 @@ steps:
   displayName: 'dotnet pack'
   inputs:
     command: pack
-    packagesToPack: theatreers.utilities/theatreers.utilities.csproj
+    packagesToPack: theatreers.shared/theatreers.shared.csproj
 - task: DotNetCoreCLI@2
   displayName: 'dotnet push'
   inputs:
