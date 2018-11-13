@@ -18,7 +18,7 @@ namespace theatreers.shared.Services
         {
             throw new NotImplementedException();
         }
-        public void Create(Show item)
+        public Show Create(Show item)
         {
             throw new NotImplementedException();
         }
