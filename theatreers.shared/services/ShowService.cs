@@ -9,7 +9,7 @@ namespace theatreers.shared.Services
 {
     public class ShowService : IShowService
     {
-        public IQueryable<Show> GetAll()
+        public IEnumerable<Show> GetAll()
         {
             throw new NotImplementedException();
         }

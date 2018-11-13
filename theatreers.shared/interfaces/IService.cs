@@ -7,7 +7,7 @@ namespace theatreers.shared.Interfaces
 {
     public interface IService<T> where T : class
     {
-        IQueryable<T> GetAll();
+        IEnumerable<T> GetAll();
 
         //IQueryable<T> Find(Func<T, bool> predicate);
 
