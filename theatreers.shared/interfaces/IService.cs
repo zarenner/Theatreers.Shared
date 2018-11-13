@@ -17,7 +17,7 @@ namespace theatreers.shared.Interfaces
 
        // void Update(T entity);
 
-        void Delete(T entity);
+        void Delete(int id);
 
         //int Count(Func<T, bool> predicate);
     }
