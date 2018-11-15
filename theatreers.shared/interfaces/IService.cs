@@ -15,7 +15,7 @@ namespace theatreers.shared.Interfaces
 
         T Create(T entity);
 
-       // void Update(T entity);
+        T Update(T entity);
 
         void Delete(int id);
 
