@@ -22,7 +22,7 @@ namespace theatreers.shared.Services
         {
             throw new NotImplementedException();
         }
-        public void Update(Show item)
+        public Show Update(Show item)
         {
             throw new NotImplementedException();
         }
