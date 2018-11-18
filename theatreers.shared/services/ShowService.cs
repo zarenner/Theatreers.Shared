@@ -14,15 +14,15 @@ namespace theatreers.shared.Services
             throw new NotImplementedException();
         }
         
-        public Show GetById(int id)
+        public ShowModel GetById(int id)
         {
             throw new NotImplementedException();
         }
-        public Show Create(ShowModel item)
+        public ShowModel Create(ShowModel item)
         {
             throw new NotImplementedException();
         }
-        public Show Update(ShowModel item)
+        public ShowModel Update(ShowModel item)
         {
             throw new NotImplementedException();
         }
