@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using theatreers.shared.Models;
-using theatreers.shared.Interfaces;
+using Theatreers.Shared.Models;
+using Theatreers.Shared.Interfaces;
 
-namespace theatreers.shared.Services
+namespace Theatreers.Shared.Services
 {
     public class VenueService : IVenueService
     {

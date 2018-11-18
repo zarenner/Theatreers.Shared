@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace theatreers.shared.Interfaces
+namespace Theatreers.Shared.Interfaces
 {
     public interface IService<T> where T : class
     {

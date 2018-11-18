@@ -686,11 +686,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chredd\\Documents\\Theatreers\\theatreers.shared\\theatreers.shared.csproj",
-      "projectName": "theatreers.shared",
-      "projectPath": "C:\\Users\\chredd\\Documents\\Theatreers\\theatreers.shared\\theatreers.shared.csproj",
+      "projectUniqueName": "C:\\Users\\chredd\\Documents\\Theatreers\\Theatreers.Shared\\Theatreers.Shared.csproj",
+      "projectName": "Theatreers.Shared",
+      "projectPath": "C:\\Users\\chredd\\Documents\\Theatreers\\Theatreers.Shared\\Theatreers.Shared.csproj",
       "packagesPath": "C:\\Users\\chredd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chredd\\Documents\\Theatreers\\theatreers.shared\\obj\\",
+      "outputPath": "C:\\Users\\chredd\\Documents\\Theatreers\\Theatreers.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

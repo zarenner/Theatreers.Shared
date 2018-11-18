@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using theatreers.shared.Models;
+using Theatreers.Shared.Models;
 
-namespace theatreers.shared.Interfaces
+namespace Theatreers.Shared.Interfaces
 {
     public interface IVenueService : IService<VenueModel>
     {

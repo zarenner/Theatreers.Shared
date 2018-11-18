@@ -4,7 +4,7 @@ using System.Data.Common;
 using System.Threading.Tasks;
 
 
-namespace theatreers.shared.Models
+namespace Theatreers.Shared.Models
 {
         public class Event
     {
