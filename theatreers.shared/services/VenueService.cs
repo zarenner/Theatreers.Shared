@@ -9,20 +9,20 @@ namespace theatreers.shared.Services
 {
     public class VenueService : IVenueService
     {
-        public IEnumerable<Venue> GetAll()
+        public IEnumerable<VenueModel> GetAll()
         {
             throw new NotImplementedException();
         }
         
-        public Venue GetById(int id)
+        public VenueModel GetById(int id)
         {
             throw new NotImplementedException();
         }
-        public Venue Create(Venue item)
+        public VenueModel Create(VenueModel item)
         {
             throw new NotImplementedException();
         }
-        public Venue Update(Venue item)
+        public VenueModel Update(VenueModel item)
         {
             throw new NotImplementedException();
         }

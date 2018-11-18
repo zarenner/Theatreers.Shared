@@ -6,7 +6,7 @@ using theatreers.shared.Models;
 
 namespace theatreers.shared.Interfaces
 {
-    public interface IVenueService : IService<Venue>
+    public interface IVenueService : IService<VenueModel>
     {
     }
 }
