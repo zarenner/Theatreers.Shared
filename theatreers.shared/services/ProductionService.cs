@@ -9,20 +9,20 @@ namespace theatreers.shared.Services
 {
     public class ProductionService : IProductionService
     {
-        public IEnumerable<Production> GetAll()
+        public IEnumerable<ProductionModel> GetAll()
         {
             throw new NotImplementedException();
         }
         
-        public Production GetById(int id)
+        public ProductionModel GetById(int id)
         {
             throw new NotImplementedException();
         }
-        public Production Create(Production item)
+        public ProductionModel Create(ProductionModel item)
         {
             throw new NotImplementedException();
         }
-        public Production Update(Production item)
+        public ProductionModel Update(ProductionModel item)
         {
             throw new NotImplementedException();
         }
