@@ -9,20 +9,20 @@ namespace theatreers.shared.Services
 {
     public class CompanyService : ICompanyService
     {
-        public IEnumerable<Company> GetAll()
+        public IEnumerable<CompanyModel> GetAll()
         {
             throw new NotImplementedException();
         }
         
-        public Company GetById(int id)
+        public CompanyModel GetById(int id)
         {
             throw new NotImplementedException();
         }
-        public Company Create(Company item)
+        public CompanyModel Create(CompanyModel item)
         {
             throw new NotImplementedException();
         }
-        public Company Update(Company item)
+        public CompanyModel Update(CompanyModel item)
         {
             throw new NotImplementedException();
         }
