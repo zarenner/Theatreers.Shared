@@ -9,7 +9,7 @@ namespace theatreers.shared.Services
 {
     public class ShowService : IShowService
     {
-        public IEnumerable<Show> GetAll()
+        public IEnumerable<ShowModel> GetAll()
         {
             throw new NotImplementedException();
         }
@@ -18,11 +18,11 @@ namespace theatreers.shared.Services
         {
             throw new NotImplementedException();
         }
-        public Show Create(Show item)
+        public Show Create(ShowModel item)
         {
             throw new NotImplementedException();
         }
-        public Show Update(Show item)
+        public Show Update(ShowModel item)
         {
             throw new NotImplementedException();
         }

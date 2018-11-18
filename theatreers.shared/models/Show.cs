@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace theatreers.shared.Models
 {
-        public class Show
+        public class ShowModel
     {
         public int Id { get; set; }
         public string Name { get; set; }

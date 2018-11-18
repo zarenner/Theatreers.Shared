@@ -6,7 +6,7 @@ using theatreers.shared.Models;
 
 namespace theatreers.shared.Interfaces
 {
-    public interface IShowService : IService<Show>
+    public interface IShowService : IService<ShowModel>
     {
     }
 }
