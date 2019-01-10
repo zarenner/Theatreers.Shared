@@ -11,7 +11,7 @@ namespace Theatreers.Shared.Services
     {
         public IEnumerable<ShowModel> GetAll()
         {
-            throw new NotImplementedException();
+            return Enumerable.Empty<ShowModel>();            
         }
         
         public ShowModel GetById(int id)

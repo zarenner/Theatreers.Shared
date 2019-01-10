@@ -11,7 +11,7 @@ namespace Theatreers.Shared.Services
     {
         public IEnumerable<Event> GetAll()
         {
-            throw new NotImplementedException();
+            return Enumerable.Empty<Event>();
         }
         
         public Event GetById(int id)
