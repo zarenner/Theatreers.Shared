@@ -2,7 +2,7 @@
 
   <PropertyGroup>
   <PackageId>Theatreers.Shared</PackageId>
-  <Version>0.0.12</Version>
+  <Version>0.0.13</Version>
   <Authors>Chris Reddington</Authors>
   <Company>Theatreers</Company>
     <TargetFramework>netstandard2.0</TargetFramework>
