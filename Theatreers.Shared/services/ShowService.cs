@@ -11,7 +11,27 @@ namespace Theatreers.Shared.Services
     {
         public IEnumerable<ShowModel> GetAll()
         {
-            return Enumerable.Empty<ShowModel>();            
+            listOfShows = new list<ShowModel>;
+
+            listOfShows.Add(new ShowModel() { 
+                Id = 1,
+                Name = "Phantom of the Opera",
+                ReleaseDate = DateTime.Parse("09/10/1986")
+            });
+
+            listOfShows.Add(new ShowModel() { 
+                Id = 2,
+                Name = "Hamilton",
+                ReleaseDate = DateTime.Parse("17/02/2015")
+            });
+            
+            listOfShows.Add(new ShowModel() { 
+                Id = 3,
+                Name = "Les Misérables",
+                ReleaseDate = DateTime.Parse("08/10/1985")
+            });
+
+            return listOfShows;           
         }
         
         public ShowModel GetById(int id)
