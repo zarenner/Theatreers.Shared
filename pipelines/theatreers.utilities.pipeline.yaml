@@ -8,6 +8,6 @@ steps:
   displayName: 'dotnet push'
   inputs:
     command: push
-    publishVstsFeed: 'Theatreers.Packages'
+    publishVstsFeed: 'Theatreers.Artifacts'
 
 
