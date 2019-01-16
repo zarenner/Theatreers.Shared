@@ -11,7 +11,7 @@ namespace Theatreers.Shared.Services
     {
         public IEnumerable<ShowModel> GetAll()
         {
-            listOfShows = new list<ShowModel>();
+            List<ShowModel> listOfShows = new List<ShowModel>();
 
             listOfShows.Add(new ShowModel() { 
                 Id = 1,
