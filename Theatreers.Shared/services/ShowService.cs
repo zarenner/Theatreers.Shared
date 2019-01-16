@@ -11,7 +11,7 @@ namespace Theatreers.Shared.Services
     {
         public IEnumerable<ShowModel> GetAll()
         {
-            listOfShows = new list<ShowModel>;
+            listOfShows = new list<ShowModel>();
 
             listOfShows.Add(new ShowModel() { 
                 Id = 1,
@@ -24,7 +24,7 @@ namespace Theatreers.Shared.Services
                 Name = "Hamilton",
                 ReleaseDate = DateTime.Parse("17/02/2015")
             });
-            
+
             listOfShows.Add(new ShowModel() { 
                 Id = 3,
                 Name = "Les Misérables",
